@@ -130,7 +130,7 @@ let obj = [
 },
 {
     Id: 1211,
-    title:"Проект продан в день презентации!",
+    title:" Loyiha taqdim qilingan kuni sotilgan ",
     img:"../img/finshimg/img3.jpg",
     category:"eski",
     
