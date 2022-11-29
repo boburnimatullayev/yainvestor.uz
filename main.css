@@ -485,7 +485,7 @@ select:hover {
     margin-top: 30px;
     /* text-align: center; */
     width: 340px;
-    height: 430px;
+    height: 450px;
     background-color: rgba(255, 255, 255, 0.845);
     position: relative;
     border-radius: 5px;
@@ -499,6 +499,11 @@ select:hover {
     transition: .2s ease;
 }
 
+.kafolat-chekru{
+    height: 500px;
+
+
+}
 .kafolat-icon-div {
     width: 100%;
     height: 150px;
